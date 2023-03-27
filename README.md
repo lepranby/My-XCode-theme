@@ -1,5 +1,14 @@
 # My XCode dark theme.
 
+### Install:
+To install, copy to ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
+<br>
+Enjoy :)
+<br>
+
+By the way...
+<br>
+
 ### ☞ About Me:
 ✳︎ I’m currently working on my own App.<br>✳︎ I’m currently learning how to work with SwiftUI and CloudKit<br>✳︎ Ask me about anything you want :)
 
@@ -12,8 +21,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=lepranby&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 <br>![](https://github-readme-streak-stats.herokuapp.com/?user=lepranby&theme=dark&hide_border=true)<br/>
 <br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=lepranby&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### Install:
-To install, copy to ~/Library/Developer/Xcode/UserData/FontAndColorThemes/
-<br>
-Enjoy :)
